@@ -8,6 +8,7 @@ python_code - contains all working code
 
 # installation 
 required packages enum, sys, random.
+
 pip install ROCKPAPERSTEROIDS
 
 # TO PLAY 
