@@ -7,7 +7,7 @@ This package contains everything necessary for an extended version of the rock p
 python_code - contains all working code
 
 # installation 
-required packages enum, sys, random.
+requires python 3+
 
 pip install ROCKPAPERSTEROIDS
 
